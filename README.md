@@ -1,2 +1,2 @@
 # Leetcode
-### this folder contains problem of leetcode solved daily.
+### This folder contains problem of leetcode solved daily.
